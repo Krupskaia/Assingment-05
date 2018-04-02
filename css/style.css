@@ -1,0 +1,36 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1em;
+        width: 960px;
+    margin: 20px auto;
+}
+
+
+table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 80%;
+        }
+
+        td,
+        th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #dddddd;
+        }
+        
+        label {
+  display: inline-block;
+  width: 140px;
+  text-align: left;
+}
+        button {
+              display: inline-block;
+  width: 140px;
+  text-align: left;
+        }
